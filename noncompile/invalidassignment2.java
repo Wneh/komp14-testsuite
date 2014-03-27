@@ -1,0 +1,6 @@
+class invalidassignment2{
+	public static void main(String [] args){
+		int id;
+		id = boolean[];
+	}
+}

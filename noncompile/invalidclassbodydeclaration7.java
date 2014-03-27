@@ -1,0 +1,2 @@
+class invalidclassbodydeclaration7{
+}
