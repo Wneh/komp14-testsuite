@@ -1,7 +1,7 @@
 komp14-testsuite
 ================
 
-Testsuite for mini java compiler
+Test suite for mini java compiler
 
 ##Installation guide
 
