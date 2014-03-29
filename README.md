@@ -24,6 +24,23 @@ $ git submodule update
 
 And you're done, the komp14-testsuite folder should be filled with content.
 
+##Update the submodule
+
+Go into the submodule folder, thereafter checkout the master:
+
+````
+$ git checkout master
+````
+
+Pull the new changes:
+
+````
+$ git pull origin master
+````
+
+Now, go back to your project and make a standard commit to save the new changes.
+
+
 ##Run the test script from ant
 
 If you're using ant build system add the following lines to call the test script from ant
